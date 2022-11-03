@@ -1,1 +1,2 @@
 # School_District_Analysis_Challenge
+Some discoveries about the data might include the fact that Charter scools perform better than public schools in math, as given while calculating the mean of math scores in both charter and public schools.
